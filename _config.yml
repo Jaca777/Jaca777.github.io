@@ -5,8 +5,8 @@ logo: static/img/avatar.png
 github: https://github.com/Jaca777
 about: Freelance developer
 
-baseurl: "warp"
-url: "http://jaca777.github.io"
+baseurl: ""
+url: "http://jaca777.github.io/"
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
