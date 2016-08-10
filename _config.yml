@@ -5,8 +5,8 @@ logo: static/img/avatar.png
 github: https://github.com/ashutosh2k12
 about: Freelance developer
 
-baseurl: ""
-url: "http://aboutashu.com/hcz-jekyll-blog"
+baseurl: "warp"
+url: "http://jaca777.github.io"
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
